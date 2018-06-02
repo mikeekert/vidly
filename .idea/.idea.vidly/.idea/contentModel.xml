@@ -12,14 +12,11 @@
         </e>
         <e p="Bin" t="ExcludeRecursive" />
         <e p="Content" t="Include">
+          <e p="bootstrap-lum.css" t="Include" />
           <e p="bootstrap-theme.css" t="Include" />
           <e p="bootstrap-theme.css.map" t="Include" />
           <e p="bootstrap-theme.min.css" t="Include" />
           <e p="bootstrap-theme.min.css.map" t="Include" />
-          <e p="bootstrap.css" t="Include" />
-          <e p="bootstrap.css.map" t="Include" />
-          <e p="bootstrap.min.css" t="Include" />
-          <e p="bootstrap.min.css.map" t="Include" />
           <e p="site.css" t="Include" />
         </e>
         <e p="Controllers" t="Include">
